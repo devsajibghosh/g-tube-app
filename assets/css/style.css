@@ -14,3 +14,10 @@ input:focus{
 }
 
 /* input part end */
+
+/* active btn  */
+
+.active{
+  background-color: red;
+  color: white;
+}
