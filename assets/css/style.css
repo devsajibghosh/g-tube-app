@@ -1,0 +1,16 @@
+/* linkk of css */
+.sort-btn{
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+input::placeholder{
+  color: red;
+}
+input:focus{
+  color: red;
+}
+
+/* input part end */
